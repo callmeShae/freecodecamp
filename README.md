@@ -6,7 +6,7 @@
 </p>
 <p align="center">Responsive Web Design Certification</p>
 
-![image](https://github.com/thereisnoShannon/freecodecamp/assets/75339573/e357c36f-bc09-445d-b2b9-7cc7c91e99ba)
+<p align="center"><img src="https://github.com/thereisnoShannon/freecodecamp/blob/main/image.png"/></p>
 
 <p align="center">https://www.freecodecamp.org/learn</p>
 <p align="center">#freecodecamp</p>
